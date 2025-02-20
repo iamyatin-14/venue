@@ -1,0 +1,47 @@
+{
+    "day1": {
+        "date": "February 21",
+        "events": [
+  { "name": "PAPER PRESENTATION", "venue": "IT211,L103", "time": "09:00AM-04:00PM"  },
+            { "name": "CSS BATTLE", "venue": "L303, L308, IT442", "time": "09:00 AM" },
+            { "name": "JUMBLED CODE", "venue": "IT444, IT443, L210", "time": "09:45 AM"  },
+            { "name": "TREASURE HUNT", "venue": "LBCH", "time": "10:00 AM"  },
+            { "name": "MERN WORKSHOP", "venue": "AUDITORIUM", "time": "10:00 AM"  },
+            { "name": "POSTER DESIGN", "venue": "L303, L308, L103", "time": "10:45 AM"  },
+            { "name": "ESCAPE ROOM", "venue": "L110", "time": "11:00 AM"  },
+            { "name": "CARROM", "venue": "L201", "time": "11:00 AM"  },
+            { "name": "PROMPT ENGINEERING", "venue": "IT442, IT443, L210", "time": "11:30 AM"  },
+            { "name": "ATTACK ON ANIME", "venue": "IT213", "time": "11:30 AM"  },
+            { "name": "TYPING THUNDER", "venue": "L303,L308,IT444", "time": "12:30 PM" },
+            { "name": "PC BUILDING", "venue": "IT214", "time": "02:00 PM"  },
+            { "name": "UI DESIGN CONTEST", "venue": "IT442,L303,L308", "time": "02:00 PM"  },
+            { "name": "Selling Showdown", "venue": "l109", "time": "02:00 pm"  },
+            { "name": "CLOUD WORKSHOP", "venue": "IT 213", "time": "02:00 PM"  },
+            { "name": "CODE IN CHAOS", "venue": "IT443,IT444,L210", "time": "02:30 PM" },
+            { "name": "MARVEL/DC QUIZ", "venue": "L108", "time": "03:30PM"  }
+         
+            
+        ]
+    },
+    "day2": {
+        "date": "February 22",
+        "events": [
+            { "name": "PAPER PRESENTATION", "venue": "IT211,L103", "time": "09:00AM-04:00PM"  },
+            { "name": "0XDEBUG", "venue": "IT443,IT444,L210", "time": "09:00 AM"  },
+            { "name": "RECALL RUMBLE", "venue": "L109" , "time": "09:00 AM" },
+  { "name": "LOGIC UNCHAINED", "venue": "IT442,IT303,IT 308" , "time": "09:00 AM" },
+  { "name": "DATA ENGINEERING WORKSHOP", "venue": "AUDITORIUM" , "time": "10:00 AM" },
+  { "name": "CRYPTERA CODING CONTEST", "venue": "L303,L303,L210,IT443" , "time": "10:30 AM" },
+  { "name": "ESCAPE ROOM", "venue": "L110" , "time": "11:00 AM" },
+  { "name": "CARROM", "venue": "L201", "time": "11:00 AM"  },
+  { "name": "REVERSE CODING", "venue": "IT444,IT442,L203" , "time": "12:00 PM" },
+  { "name": "HACKATHON", "venue": "L102,L110,L201,IT211" , "time": "01:00 PM" },
+  { "name": "MOVIE QUIZ", "venue": "ROUND 1: LBCH, ROUND 2: L108" , "time": "01:30 PM" },
+  { "name": "AIML WORKSHOP", "venue": "IT213" , "time": "02:00 PM" },
+  { "name": "MISSING CODE", "venue": "IT443,IT444,L210" , "time": "02:00 PM" },
+  { "name": "IPL AUCTION", "venue": "L109" , "time": "02:00 PM" },
+  { "name": "TECH FEUD", "venue": "IT442,L303,L308" , "time": "02:00 PM" }
+  
+        ]
+    }
+  }
